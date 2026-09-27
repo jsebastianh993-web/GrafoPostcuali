@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-25T16:01:32.000Z
-modified: 2026-09-25T19:30:37.734Z
-published: 2026-09-25T19:30:37.734Z
+modified: 2026-09-27T01:35:44.060Z
+published: 2026-09-27T01:35:44.060Z
 tags:
   - arreglo-desplazado
 ---
@@ -17,5 +17,3 @@ tags:
 - \[Punto de resistencia 2]
 
 ## Ver también
-
-- [[00-Arreglo-inicial/Participantes|← versión inicial]]

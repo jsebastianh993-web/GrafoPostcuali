@@ -21,7 +21,3 @@ _Cada curso era una red de textos disímiles_
 _¿Cómo declarar que me parece inconcebible hacer una investigación que no contribuya al contexto inicial del que surgió la idea?_
 
 _¿Cómo justificar tantas diferencias inexploradas desde el diseño y la investigación misma? ¿Cómo financiar o justificar a [[ANID (4 años)]] el desarrollo de una investigación que es solo parcialmente sobre Chile? ¿Cómo justificar estudiar fuera de Colombia?_
-
-## Ver también
-
-- [[Participantes (desplazado)]]

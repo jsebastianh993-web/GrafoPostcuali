@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-25T16:01:32.000Z
-modified: 2026-09-26T16:36:50.340Z
-published: 2026-09-26T16:36:50.340Z
+modified: 2026-09-27T01:36:16.938Z
+published: 2026-09-27T01:36:16.938Z
 tags:
   - arreglo-inicial
 ---
@@ -17,6 +17,3 @@ tags:
 - **Qué costos tiene:** \[ ]
 
 ## Ver también
-
-- [[Arreglo desplazado - especulación]]
-- [[Proyecto-Prácticas letradas académicas online]]

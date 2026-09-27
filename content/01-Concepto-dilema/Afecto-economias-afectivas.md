@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-25T16:01:32.000Z
-modified: 2026-09-26T16:36:50.343Z
-published: 2026-09-26T16:36:50.343Z
+modified: 2026-09-27T01:39:46.248Z
+published: 2026-09-27T01:39:46.248Z
 tags:
   - concepto
 ---
@@ -35,5 +35,3 @@ El afecto no se reduce a la emoción individual localizada en un sujeto. Se trat
 
 - [[Proyecto-Prácticas letradas académicas online]]
 - [[Arreglo desplazado]]
-- [[Palabras que entraron]]
-- [[Palabras que desaparecieron]]

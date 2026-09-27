@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-25T16:01:32.000Z
-modified: 2026-09-25T16:41:14.838Z
-published: 2026-09-25T16:41:14.838Z
+modified: 2026-09-27T01:35:48.422Z
+published: 2026-09-27T01:35:48.422Z
 tags:
   - arreglo-desplazado
 ---
@@ -17,6 +17,5 @@ tags:
 
 ## Ver también
 
-- [[Tema de investigación|← versión inicial]]
 - [[Palabras que entraron]]
 - [[Palabras que desaparecieron]]
