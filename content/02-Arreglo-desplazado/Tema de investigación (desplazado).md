@@ -2,6 +2,7 @@
 publish: true
 created: 2026-09-25T16:01:32.000Z
 modified: 2026-09-25T16:41:14.838Z
+published: 2026-09-25T16:41:14.838Z
 tags:
   - arreglo-desplazado
 ---

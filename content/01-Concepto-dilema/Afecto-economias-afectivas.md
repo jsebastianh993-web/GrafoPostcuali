@@ -2,6 +2,7 @@
 publish: true
 created: 2026-09-25T16:01:32.000Z
 modified: 2026-09-26T16:36:50.343Z
+published: 2026-09-26T16:36:50.343Z
 tags:
   - concepto
 ---
